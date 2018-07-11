@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string-array name="brands">
+        <item>Asus</item>
+        <item>OnePlus</item>
+        <item>Honor</item>
+        <item>Samsung</item>
+        <item>Oppo</item>
+        <item>Xiaomi</item>
+        <item>Vivo</item>
+    </string-array>
+    <string-array name="devices">
+        <item>Smart Phones</item>
+        <item>Laptop</item>
+        <item>Smart Tv</item>
+        <item>Headphone</item>
+        <item>Speaker</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
